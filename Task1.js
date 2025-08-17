@@ -9,7 +9,7 @@ function sumOfNumbersInString(str) {
 }
 
 const input = "foo8bar8cat2tc2";
-console.log(sumOfNumbersInString(input));  // Output: 20
+console.log(sumOfNumbersInString(input)); 
 
 
 
@@ -91,4 +91,5 @@ console.log(sumOfNumbersInString(input));  // Output: 20
 // }
 
 // const input = "foo12bar30cat8";
+
 // console.log(multiplenumber(input));
