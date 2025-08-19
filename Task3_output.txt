@@ -1,0 +1,2 @@
+Area of circle is : 314.1592653589793
+Area of triangle is : 30
