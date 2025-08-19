@@ -26,7 +26,6 @@ class University{
         });
     }
 }
-
 const myUniversity = new University("Charusat University");
 
 myUniversity.addDepartment("Computer Science");
