@@ -10,4 +10,3 @@ function sumOfNumbersInString(str) {
 
 const input = "foo8bar8cat2tc2";
 console.log(sumOfNumbersInString(input)); 
-
