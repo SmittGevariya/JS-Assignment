@@ -1,0 +1,11 @@
+Department Computer Science added
+Department Mechanical Engineering added
+Department Electrical Engineering added
+Departments in Charusat University:
+1.Computer Science
+2.Mechanical Engineering
+3.Electrical Engineering
+Department Mechanical Engineering removed
+Departments in Charusat University:
+1.Computer Science
+2.Electrical Engineering
