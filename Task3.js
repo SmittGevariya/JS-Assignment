@@ -28,9 +28,9 @@ class Triangle extends Shape{
     }
 }
 
-
 const circle=new Circle(10);
 console.log("Area of circle is :",circle.calculateArea());
 
 const triangle=new Triangle(6,10);
+
 console.log("Area of triangle is :",triangle.calculateArea());
